@@ -8,8 +8,8 @@ This is some text.
 And this is another paragraph.
 
 List
-- one 
-- two 
- - two and a half
-  - two and three quarters
-- three
+* one 
+* two 
+ * two and a half
+  * two and three quarters
+* three
